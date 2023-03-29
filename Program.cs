@@ -64,7 +64,7 @@ class Program {
         descontando 10 minutos do caminhão (5 de cada pedágio)
         ao longo de do percurso o após 30 minutos o caminhão teria percorrido 45Km e o 40Km.
         logo, mantendo a velocidade do percurso o caminhão estará mais proximo.
-        eles se cruzam aproximadamente 33 minutos pós o inicio do trageto.
+        eles se cruzam aproximadamente 33 minutos pós o inicio do trajeto.
          ");
         
         Console.WriteLine("Resposta 5:");
