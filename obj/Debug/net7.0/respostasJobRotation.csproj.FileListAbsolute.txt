@@ -1,0 +1,15 @@
+C:\Users\Davi\Documents\respostasJobRotation\bin\Debug\net7.0\respostasJobRotation.exe
+C:\Users\Davi\Documents\respostasJobRotation\bin\Debug\net7.0\respostasJobRotation.deps.json
+C:\Users\Davi\Documents\respostasJobRotation\bin\Debug\net7.0\respostasJobRotation.runtimeconfig.json
+C:\Users\Davi\Documents\respostasJobRotation\bin\Debug\net7.0\respostasJobRotation.dll
+C:\Users\Davi\Documents\respostasJobRotation\bin\Debug\net7.0\respostasJobRotation.pdb
+C:\Users\Davi\Documents\respostasJobRotation\obj\Debug\net7.0\respostasJobRotation.csproj.AssemblyReference.cache
+C:\Users\Davi\Documents\respostasJobRotation\obj\Debug\net7.0\respostasJobRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\respostasJobRotation\obj\Debug\net7.0\respostasJobRotation.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\respostasJobRotation\obj\Debug\net7.0\respostasJobRotation.AssemblyInfo.cs
+C:\Users\Davi\Documents\respostasJobRotation\obj\Debug\net7.0\respostasJobRotation.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\respostasJobRotation\obj\Debug\net7.0\respostasJobRotation.dll
+C:\Users\Davi\Documents\respostasJobRotation\obj\Debug\net7.0\refint\respostasJobRotation.dll
+C:\Users\Davi\Documents\respostasJobRotation\obj\Debug\net7.0\respostasJobRotation.pdb
+C:\Users\Davi\Documents\respostasJobRotation\obj\Debug\net7.0\respostasJobRotation.genruntimeconfig.cache
+C:\Users\Davi\Documents\respostasJobRotation\obj\Debug\net7.0\ref\respostasJobRotation.dll
